@@ -1,6 +1,5 @@
 streamlit
 opencv-python
-numpy
 face-recognition
+numpy
 pandas
-reportlab
